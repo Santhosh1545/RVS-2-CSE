@@ -4,7 +4,7 @@
 void main()
 {
 
-    char str[50]="RVSCCT";
+    char str[50]="Santhosh";
     char alphabets[123]={0};
     int index=0;
     while(str[index] !='\0')
